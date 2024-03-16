@@ -45,11 +45,14 @@ This Project repository contains the code and information for a Motion Detection
 
 1. Ensure all hardware components are securely connected.
 
-2. Run the Python program.
+   ![IMG_5084](https://github.com/shassan7/MotionDetection_AlertSystem/assets/97817144/4e30ee2e-85ae-404a-ae8e-b6909d20d780)
 
-3. When motion is detected, the blue LED will turn on, and an email notification will be sent to the specified email address.
 
-4. The system will sleep for 5 seconds before re-enabling the PIR sensor to detect motion again.
+3. Run the Python program.
+
+4. When motion is detected, the blue LED will turn on, and an email notification will be sent to the specified email address.
+
+5. The system will sleep for 5 seconds before re-enabling the PIR sensor to detect motion again.
 
 
 
